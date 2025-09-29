@@ -14,7 +14,7 @@ This dashboard analyzes pizza sales data to uncover sales trends, product perfor
 ## 💡 Strategic Recommendations
 
 - Promote large pizzas with bundles and discounts.
-- Review XL/XXL strategy — remove or redesign.
+- Review XL/XXL strategy remove or redesign.
 - Focus staffing and campaigns on peak hours.
 - Launch Sunday evening offers.
 - Highlight top 21 pizzas; reevaluate bottom 14.
