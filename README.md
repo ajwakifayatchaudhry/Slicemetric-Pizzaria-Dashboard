@@ -1,6 +1,13 @@
-# 🍕 SliceMetrics Pizzaria – Power BI Portfolio Project
+# 🍕 SliceMetrics Pizzaria – SQL and Power BI Portfolio Project
 
 This dashboard analyzes pizza sales data to uncover sales trends, product performance, insights and strategic recomendadtions. It includes interactive visuals, KPI cards, and slicers to support business decisions.
+
+## 📊 Dashboard Overview
+- **Overview Page** – High-level KPIs and revenue breakdown  
+- **Sales Trends** – Daily, monthly, and seasonal performance  
+- **Product Trends** – Top 21 pizzas (Pareto effect) and category demand  
+- **Insights** – Size/category patterns, premium vs. budget behavior, and time-of-day trends  
+- **Recommendations** – Strategic suggestions for boosting sales  
 
 ## 🔍 Key Insights
 
@@ -21,9 +28,25 @@ This dashboard analyzes pizza sales data to uncover sales trends, product perfor
 - Balance premium and budget pricing.
 - Adjust seasonal promotions based on traffic and value trends.
 
+## 🛠 Tools Used
+- Power BI (dashboard design, DAX, Power Query, data modelling)  
+- SQL (data preparation & queries)  
+
+## 🧠 SQL Analysis
+
+This project includes SQL queries used to explore the pizza dataset:
+- Total revenue
+- Most ordered pizza types
+- Time-based demand
+- Category-wise performance
+- Cumulative revenue trends
+
+📄 View the full SQL file: [(https://github.com/ajwakifayatchaudhry/Slicemetric-Pizzaria-Dashboard/blob/main/SQL/SliceMetric_pizzaria_analysis.sql)](SQL/pizza_analysis.sql)
+
+
 ## 📸 Screenshots
 
-See the `Screenshots` folder for:
+See the `Screenshots` folder(https://github.com/ajwakifayatchaudhry/Slicemetric-Pizzaria-Dashboard/tree/main/Screenshots) for:
 - Overview Page  
 - Insights Page  
 - Sales trend page
