@@ -26,7 +26,9 @@ This dashboard analyzes pizza sales data to uncover sales trends, product perfor
 See the `Screenshots` folder for:
 - Overview Page  
 - Insights Page  
-- KPI Cards
+- Sales trend page
+- Product trend Page  
+- Strategic Recomendations Page 
 
 ## 👩‍💻 Designed & Analyzed by Ajwa Kifayat Chaudhry 
 BSIT – University of Agriculture Faisalabad  
