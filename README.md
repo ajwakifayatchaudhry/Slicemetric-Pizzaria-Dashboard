@@ -31,6 +31,5 @@ See the `Screenshots` folder for:
 - Strategic Recomendations Page 
 
 ## 👩‍💻 Designed & Analyzed by Ajwa Kifayat Chaudhry 
-BSIT – University of Agriculture Faisalabad  
 
 
